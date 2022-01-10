@@ -14,7 +14,7 @@ Projede kitapların yazarları için Author controller'vardır. Bu controller il
 * Spesifik Bir Yazarın Bilgilerini Getirme
 
 
-2.Yazar Bilgileri:
+Yazar Bilgileri:
 
 
 * Ad
@@ -22,7 +22,7 @@ Projede kitapların yazarları için Author controller'vardır. Bu controller il
 * Doğum Tarihi
 
 
-
+Eklentiler:
 
 * Kitabı yayında olan bir yazar silinemez. Öncelikle kitap silinmeli, daha sonra yazar silinebilir.
 
